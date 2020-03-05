@@ -1,0 +1,9 @@
+Bundle install
+
+Option1: right click on Feature file and choose run
+
+Option2: Command line -> cucumber features/which/feature/tv.feature
+
+Option 3: cucumber --tag @tv
+
+https://www.loom.com/share/43b3bfd45b6c44d39f789d49874726f5
